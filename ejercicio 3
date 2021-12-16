@@ -1,0 +1,8 @@
+num1 = int (input("Ingrese un numero: "))
+num2 = int (input("Ingrese un segundo numero: "))
+sum = num1 + num2
+res = num1 - num2
+mult = num1 * num2
+div = num1 / num2
+mod = num1 % num2
+print("El resultado de la suma es: ", sum," \n ", "Resta: ",res, " \n","Multiplicacion: ", mult, " \n ","Division:", div," \n ", "Modulo: ", mod)
