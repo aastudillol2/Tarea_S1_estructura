@@ -1,5 +1,0 @@
-A= int (input("Ingrese el valor del primer lado: "))
-B = int (input("Ingrese el valor del segundo lado: "))
-
-hip = (A**2 + B**2)**0.5 
-print ("El valor de la hipotenusa es: ", hip)
