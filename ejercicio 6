@@ -1,8 +1,0 @@
-num = int (input("Ingrese cualquier numero: "))
-
-if num % 2 == 0:
-    print(0)
-    print("El numero es par")
-else:
-    print (1)
-    print ("El numero es impar")
